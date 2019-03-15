@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:XXMediaParseTool/XXMediaParseTool.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:XXMp4Parse/XXMp4Parse.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:XXHlsParse/XXHlsParse.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:XXFlvParse/XXFlvParse.xcodeproj">
+   </FileRef>
+</Workspace>
